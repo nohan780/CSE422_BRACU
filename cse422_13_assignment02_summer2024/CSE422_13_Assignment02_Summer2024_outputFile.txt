@@ -1,0 +1,6 @@
+one pointer:
+110010000
+-3
+Two pointer:
+010001010
+0
